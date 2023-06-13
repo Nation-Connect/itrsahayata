@@ -40,7 +40,7 @@
     <!-- responsive css -->
     <link rel="stylesheet" type="text/css" href="./assets/web/css/responsive.css">
 
-    
+
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-    
+
 
     <div class="offwrap"></div>
 
@@ -115,12 +115,12 @@
                                                         <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
 
                                                     </ul>
-                              <ul class="sub-menu">
+                                                    <ul class="sub-menu">
                                                         <li><a href="tel:8130813280"><i class="fas fa-phone"></i> Call</a></li>
-    <li><a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
-    <li><a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a></li>
-    <li><a href="https://www.facebook.com/yourpage"><i class="fab fa-facebook"></i> Facebook</a></li>
-    <li><a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i> Instagram</a></li>
+                                                        <li><a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
+                                                        <li><a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a></li>
+                                                        <li><a href="https://www.facebook.com/yourpage"><i class="fab fa-facebook"></i> Facebook</a></li>
+                                                        <li><a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i> Instagram</a></li>
                                                     </ul>
                                                 </li>
 
@@ -176,7 +176,7 @@
                         </a>
                     </div>
                     <div class="canvas-logo">
-                        <a href="https://itrsahayata.in/"><img src="./assets/web/images/logo.png" alt="logo" ></a>
+                        <a href="https://itrsahayata.in/"><img src="./assets/web/images/logo.png" alt="logo"></a>
                     </div>
                     <div class="offcanvas-text">
                         Streamline Your Taxes with Our Best ITR Filing Services. Contact Us Now and Experience
@@ -215,33 +215,27 @@
                         <ul class="social">
 
                             <li>
-                                <a href="https://www.facebook.com/yourpage( insert page link)" target="_blank"><span><i
-                                            class="fa fa-facebook"></i></span></a>
+                                <a href="https://www.facebook.com/yourpage( insert page link)" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.instagram.com/yourpage( insert page link)" target="_blank"><span><i
-                                            class="fa fa-instagram"></i></span></a>
+                                <a href="https://www.instagram.com/yourpage( insert page link)" target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.youtube.com/yourpage( insert page link)" target="_blank"><span><i
-                                            class="fa fa-youtube"></i></span></a>
+                                <a href="https://www.youtube.com/yourpage( insert page link)" target="_blank"><span><i class="fa fa-youtube"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.linkedin.com/in/yourpage( insert page link)"
-                                    target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
+                                <a href="https://www.linkedin.com/in/yourpage( insert page link)" target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://twitter.com/yourpage( insert page link)" target="_blank"><span><i
-                                            class="fa fa-twitter"></i></span></a>
+                                <a href="https://twitter.com/yourpage( insert page link)" target="_blank"><span><i class="fa fa-twitter"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.pinterest.com/yourpage( insert page link)" target="_blank"><span><i
-                                            class="fa fa-pinterest-p"></i></span></a>
+                                <a href="https://www.pinterest.com/yourpage( insert page link)" target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
                             </li>
                         </ul>
                     </div>
@@ -259,120 +253,120 @@
                         </a>
                     </div>
 
-                    
 
-                        <style>
-                            .dropdown {
-                                position: relative;
-                                display: inline-block;
-                            }
 
-                            .dropbtn {
-                                background-color: #f1f1f1;
-                                color: #333;
-                                padding: 10px;
-                                font-size: 16px;
-                                border: none;
-                                cursor: pointer;
-                            }
+                    <style>
+                        .dropdown {
+                            position: relative;
+                            display: inline-block;
+                        }
 
-                            .dropdown-content {
-                                display: none;
-                                position: absolute;
-                                background-color: #f9f9f9;
-                                min-width: 160px;
-                                box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-                                z-index: 1;
-                            }
+                        .dropbtn {
+                            background-color: #f1f1f1;
+                            color: #333;
+                            padding: 10px;
+                            font-size: 16px;
+                            border: none;
+                            cursor: pointer;
+                        }
 
-                            .dropdown-content a {
-                                color: #333;
-                                padding: 12px 16px;
-                                text-decoration: none;
-                                display: block;
-                            }
+                        .dropdown-content {
+                            display: none;
+                            position: absolute;
+                            background-color: #f9f9f9;
+                            min-width: 160px;
+                            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+                            z-index: 1;
+                        }
 
-                            .dropdown-content a:hover {
-                                background-color: #f1f1f1;
-                            }
+                        .dropdown-content a {
+                            color: #333;
+                            padding: 12px 16px;
+                            text-decoration: none;
+                            display: block;
+                        }
 
-                            .dropdown:hover .dropdown-content {
-                                display: block;
-                            }
+                        .dropdown-content a:hover {
+                            background-color: #f1f1f1;
+                        }
 
-                            .dropdown:hover .dropbtn {
-                                background-color: #ddd;
-                            }
-                        </style>
+                        .dropdown:hover .dropdown-content {
+                            display: block;
+                        }
 
-                        <div class="dropdown">
-                            <button class="dropbtn">Contact Us</button>
-                            <div class="dropdown-content">
-                                <a href="tel:8130813280"><i class="fas fa-phone"></i> Call</a>
-                                <a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-                                <a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i>
-                                    Instagram</a>
-                                <a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a>
-                            </div>
+                        .dropdown:hover .dropbtn {
+                            background-color: #ddd;
+                        }
+                    </style>
+
+                    <div class="dropdown">
+                        <button class="dropbtn">Contact Us</button>
+                        <div class="dropdown-content">
+                            <a href="tel:8130813280"><i class="fas fa-phone"></i> Call</a>
+                            <a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+                            <a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i>
+                                Instagram</a>
+                            <a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a>
                         </div>
+                    </div>
 
 
 
                     </ul> <!-- //.nav-menu -->
-                                                </li>
+                    </li>
 
-                                                <li class="menu-item">
-                                                    <a href="#tax-slave">Tax Rates</a>
-                                                    <ul class="sub-menu">
-                                                        <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
+                    <li class="menu-item">
+                        <a href="#tax-slave">Tax Rates</a>
+                        <ul class="sub-menu">
+                            <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
 
-                                                    </ul>
+                        </ul>
 
-                                                </li>
-
-
+                    </li>
 
 
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Contact Us</a>
-                      
-                    
+
+
+                    <li class="menu-item-has-children">
+                        <a href="#">Contact Us</a>
 
 
 
 
 
-                    <div class="canvas-contact">
-                        <div class="address-area">
-                            <div class="address-list">
-                                <div class="info-icon">
-                                    <i class="flaticon-location"></i>
+
+
+                        <div class="canvas-contact">
+                            <div class="address-area">
+                                <div class="address-list">
+                                    <div class="info-icon">
+                                        <i class="flaticon-location"></i>
+                                    </div>
+                                    <div class="info-content">
+                                        <h4 class="title">Head Office :-<br> Sec 45 , Noida UP</em>
+                                    </div>
                                 </div>
-                                <div class="info-content">
-                                    <h4 class="title">Head Office :-<br> Sec 45 , Noida UP</em>
+                                <div class="address-list">
+                                    <div class="info-icon">
+                                        <i class="flaticon-email"></i>
+                                    </div>
+
+                                    <div class="info-content">
+                                        <h4 class="title">Email</h4>
+                                        <em><a href="mailto:info@itrsahayata.in">info@itrsahayata.in</a></em>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="address-list">
-                                <div class="info-icon">
-                                    <i class="flaticon-email"></i>
-                                </div>
-                                
-                                <div class="info-content">
-                                    <h4 class="title">Email</h4>
-                                    <em><a href="mailto:info@itrsahayata.in">info@itrsahayata.in</a></em>
-                                </div>
-                            </div>
-                            <div class="address-list">
-                                <div class="info-icon">
-                                    <i class="flaticon-call"></i>
-                                </div>
-                                <div class="info-content">
-                                    <h4 class="title">Phone</h4>
-                                    <em><a href="tel:8130813280">8130813280</a></em>
+                                <div class="address-list">
+                                    <div class="info-icon">
+                                        <i class="flaticon-call"></i>
+                                    </div>
+                                    <div class="info-content">
+                                        <h4 class="title">Phone</h4>
+                                        <em><a href="tel:8130813280">8130813280</a></em>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </nav>
                 <!-- Canvas Menu end -->
             </header>
@@ -426,21 +420,25 @@
             <!-- Popup form -->
             <div class="popup-form">
                 <h2>Book Your Appointment</h2>
-                <form>
+                <form action="#" id="booking-form">
+                <input type="hidden" name="send-booking-mail" />
                     <div class="form-group">
-                        <input type="text" id="name" placeholder="Name" required>
+                        <input type="text" id="name" name="name" placeholder="Name" required>
                     </div>
                     <div class="form-group">
-                        <input type="email" id="email" placeholder="Email" required>
+                        <input type="email" id="email" name="email" placeholder="Email" required>
                     </div>
                     <div class="form-group">
-                        <input type="tel" id="phone" placeholder="Phone" required>
+                        <input type="tel" id="phone" name="phone" placeholder="Phone" required>
                     </div>
                     <div class="form-group">
-                        <textarea id="message" placeholder="Message" rows="4" required></textarea>
+                        <textarea id="message" placeholder="Message" name="message" rows="4" required></textarea>
                     </div>
                     <div class="form-group">
-                        <button type="submit" onclick="submitForm()" id="submitBtn">Submit</button>
+                        <button type="submit" name="submit" class="submit-btn">Submit</button>
+                    </div>
+                    <div id="form-message-danger" style="display:none;font-size:20px;margin-top:10px;" class="mb-4 text-center text-danger">
+                        Something went wrong!, please try again.
                     </div>
                 </form>
             </div>
@@ -500,27 +498,6 @@
             var popup = document.getElementById('popup');
             var submitButton = document.getElementById('submitBtn');
 
-            // Function to handle form submission
-            function submitForm() {
-                // Get form values
-                var name = document.getElementById('name').value;
-                var email = document.getElementById('email').value;
-                var phone = document.getElementById('phone').value;
-                var message = document.getElementById('message').value;
-
-                // Compose email body
-                var body = 'Name: ' + name + '\n';
-                body += 'Email: ' + email + '\n';
-                body += 'Phone: ' + phone + '\n';
-                body += 'Message: ' + message + '\n';
-
-                // Send email
-                window.location.href = 'mailto:info@itrsahayata.in?subject=Appointment Booking&body=' + encodeURIComponent(body);
-
-                // Close the popup
-                closePopup();
-            }
-
             // Function to open the popup
             function openPopup() {
                 popup.style.display = 'flex';
@@ -533,7 +510,7 @@
             }
 
             // Close the popup when clicking outside of the form
-            window.onclick = function (event) {
+            window.onclick = function(event) {
                 if (event.target === popup) {
                     var name = document.getElementById('name').value;
                     var email = document.getElementById('email').value;
@@ -562,7 +539,7 @@
 
             // Call the highlightSubmitButton function on input change
             var formInputs = document.querySelectorAll('.popup-form input, .popup-form textarea');
-            formInputs.forEach(function (input) {
+            formInputs.forEach(function(input) {
                 input.addEventListener('input', highlightSubmitButton);
             });
         </script>
@@ -577,40 +554,42 @@
         <!-- Slider End -->
 
         <!-- Notification section -->
-<div class="notification-section">
-    <div class="container">
-        <div class="notification-content">
-            <p class="notification-text"> <strong> HURRY UP! LAST DATE OF FILING ITR IS 31st JULY. DON'T MISS THE DATE  </strong> </p>
+        <div class="notification-section">
+            <div class="container">
+                <div class="notification-content">
+                    <p class="notification-text"> <strong> HURRY UP! LAST DATE OF FILING ITR IS 31st JULY. DON'T MISS THE DATE </strong> </p>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
 
-<style>
-    /* Style for the notification section */
-    .notification-section {
-        background-color: red;
-        color: white;
-        text-align: center;
-        padding: 2px;
-    }
+        <style>
+            /* Style for the notification section */
+            .notification-section {
+                background-color: red;
+                color: white;
+                text-align: center;
+                padding: 2px;
+            }
 
-    .notification-text {
-        font-weight: bold;
-        animation: blink-animation 1s infinite;
-    }
+            .notification-text {
+                font-weight: bold;
+                animation: blink-animation 1s infinite;
+            }
 
-    @keyframes blink-animation {
-        0% {
-            opacity: 1;
-        }
-        50% {
-            opacity: 0.4;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
-</style>
+            @keyframes blink-animation {
+                0% {
+                    opacity: 1;
+                }
+
+                50% {
+                    opacity: 0.4;
+                }
+
+                100% {
+                    opacity: 1;
+                }
+            }
+        </style>
 
 
 
@@ -635,7 +614,7 @@
                 </div>
 
 
-          
+
 
 
                 <div class="row ">
@@ -664,16 +643,15 @@
                                     <li><i class="fa fa-check"></i><span>
                                             No Refund Claim</span></li>
                             </div>
-                            <div class="btn-part "
-                                style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
+                            <div class="btn-part " style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
                                 <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
                             </div>
                         </div>
                     </div>
 
 
-            
-                
+
+
 
                     <div class="col-lg-4 col-md-6 md-mb-30 ">
                         <div class="pricing-table white-bg" id="itr2-section">
@@ -698,15 +676,14 @@
                                             who is not eligible to file ITR-1</span></li>
 
                             </div>
-                            <div class="btn-part "
-                                style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
+                            <div class="btn-part " style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
                                 <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
                             </div>
                         </div>
                     </div>
 
 
-                    
+
 
 
 
@@ -733,8 +710,7 @@
                                             Other Source Income</span></li>
 
                             </div>
-                            <div class="btn-part "
-                                style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
+                            <div class="btn-part " style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
                                 <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
                             </div>
                         </div>
@@ -744,7 +720,7 @@
 
 
 
-                
+
 
 
 
@@ -758,18 +734,18 @@
                         * <strong style="font-size: 20px;">Book an Appointment with our Income Tax Expert Only at 99 Rs </strong> ( For 10 Minutes)
                         <a href="https://wa.me/8130813280" target="_blank" class="whatsapp-btn">BOOK NOW</a>
 
-<style>
-    .whatsapp-btn {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #4CAF50;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-    }
-</style> <br>
-* <strong style="font-size: 20px;">Balance Sheet/ Profit &  Loss Account Charge 499 Rs extra </strong> <br>
-    * <strong style="font-size: 20px;">Charge for Attestation 599 Rs</strong> 
+                        <style>
+                            .whatsapp-btn {
+                                display: inline-block;
+                                padding: 10px 20px;
+                                background-color: #4CAF50;
+                                color: white;
+                                text-decoration: none;
+                                border-radius: 5px;
+                            }
+                        </style> <br>
+                        * <strong style="font-size: 20px;">Balance Sheet/ Profit & Loss Account Charge 499 Rs extra </strong> <br>
+                        * <strong style="font-size: 20px;">Charge for Attestation 599 Rs</strong>
                     </p>
                 </div>
 
@@ -790,376 +766,361 @@
 
 
 
-        <div class="sec-title" >
+        <div class="sec-title">
 
 
             <div id="tax-slave">
 
 
 
-            <!-- <h2 class="title pb-22">
+                <!-- <h2 class="title pb-22">
                        ITR Filing                    </h2> -->
-            <table dir="ltr"
-                style="border-collapse: collapse; width: 100%; border-width: 1px; border-spacing: 0px; border-style: solid;"
-                border="1" cellspacing="0" cellpadding="0">
-                <colgroup>
-                    <col style="width: 18.8098%;" width="592">
-                    <col style="width: 18.7035%;" width="372">
-                    <col style="width: 20.1913%;" width="435">
-                    <col style="width: 20.086%;" width="367">
-                    <col style="width: 22.2094%;">
-                </colgroup>
-                <tbody>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5"
-                            data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
-                                    tax slab
-                                    rates for FY 2022-23 i.e. AY 2023-24</strong></span></td>
-                    </tr>
-                    <tr style="background-color: rgb(6, 57, 88);">
-                        <td style="border-width: 1px; padding: 5px;" rowspan="3" data-sheets-value="{">
-                            <div><span style="color: rgb(255, 255, 255);"><strong>Tax
-                                        Slab</strong></span></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="3"
-                            data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old
-                                    Tax Regime</strong></span></td>
-                        <td
-                            style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
-                            <span style="color: rgb(255, 255, 255);"><strong>New Tax
-                                    Regime</strong></span>
-                        </td>
-                    </tr>
-                    <tr style="background-color: rgb(53, 152, 219);">
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{">
-                            <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
-                                        &amp; HUF &lt; 60 years</strong></span></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{">
-                            <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
-                                        &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
-                                    &amp;
-                                    HUF &gt; 80 years</strong></span></td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"><span
-                                style="color: rgb(255, 255, 255);"><strong>Resident
-                                    Individuals &amp; HUF</strong></span></td>
-                    </tr>
-                    <tr></tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
-                        </td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
-                            3,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
-                            5,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
-                            6,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            10%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
-                            7,50,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            10%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
-                            9,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            15%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
-                            10,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            15%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
-                            12,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
-                            12,50,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
-                            15,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            25%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
-                            15,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" colspan="5">&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5"
-                            data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
-                                    tax slab
-                                    rates for FY 2023-24 i.e. AY 2024-25</strong></span></td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="3"
-                            data-sheets-value="{">
-                            <div><strong><span style="color: rgb(255, 255, 255);">Tax
-                                        Slab</span></strong></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(6, 57, 88);"
-                            colspan="3" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old Tax
-                                    Regime</strong></span></td>
-                        <td
-                            style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
-                            <span style="color: rgb(255, 255, 255);"><strong>New Tax
-                                    Regime</strong></span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{">
-                            <div><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
-                                        &amp; HUF &lt; 60 years</span></strong></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{">
-                            <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
-                                        &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
-                        </td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"
-                            data-sheets-value="{"><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
-                                    &amp; HUF
-                                    &gt; 80 years</span></strong></td>
-                        <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2">
-                            <strong><span style="color: rgb(255, 255, 255);">Resident
-                                    Individuals &amp; HUF</span></strong></td>
-                    </tr>
-                    <tr></tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
-                        </td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
-                            3,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
-                            5,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            0%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
-                            6,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            5%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
-                            7,50,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            10%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
-                            9,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            10%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
-                            10,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            15%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
-                            12,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            15%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
-                            12,50,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
-                            15,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            20%</td>
-                    </tr>
-                    <tr>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
-                            15,00,000</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                        <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
-                            30%</td>
-                    </tr>
-                </tbody>
-            </table> 
-        </div>
+                <table dir="ltr" style="border-collapse: collapse; width: 100%; border-width: 1px; border-spacing: 0px; border-style: solid;" border="1" cellspacing="0" cellpadding="0">
+                    <colgroup>
+                        <col style="width: 18.8098%;" width="592">
+                        <col style="width: 18.7035%;" width="372">
+                        <col style="width: 20.1913%;" width="435">
+                        <col style="width: 20.086%;" width="367">
+                        <col style="width: 22.2094%;">
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5" data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
+                                        tax slab
+                                        rates for FY 2022-23 i.e. AY 2023-24</strong></span></td>
+                        </tr>
+                        <tr style="background-color: rgb(6, 57, 88);">
+                            <td style="border-width: 1px; padding: 5px;" rowspan="3" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Tax
+                                            Slab</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="3" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old
+                                        Tax Regime</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
+                                <span style="color: rgb(255, 255, 255);"><strong>New Tax
+                                        Regime</strong></span>
+                            </td>
+                        </tr>
+                        <tr style="background-color: rgb(53, 152, 219);">
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &lt; 60 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                        &amp;
+                                        HUF &gt; 80 years</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"><span style="color: rgb(255, 255, 255);"><strong>Resident
+                                        Individuals &amp; HUF</strong></span></td>
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
+                            </td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
+                                3,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
+                                5,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
+                                6,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
+                                7,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
+                                9,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
+                                10,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
+                                12,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
+                                12,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                25%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" colspan="5">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5" data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
+                                        tax slab
+                                        rates for FY 2023-24 i.e. AY 2024-25</strong></span></td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="3" data-sheets-value="{">
+                                <div><strong><span style="color: rgb(255, 255, 255);">Tax
+                                            Slab</span></strong></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(6, 57, 88);" colspan="3" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old Tax
+                                        Regime</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
+                                <span style="color: rgb(255, 255, 255);"><strong>New Tax
+                                        Regime</strong></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
+                                            &amp; HUF &lt; 60 years</span></strong></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{"><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
+                                        &amp; HUF
+                                        &gt; 80 years</span></strong></td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2">
+                                <strong><span style="color: rgb(255, 255, 255);">Resident
+                                        Individuals &amp; HUF</span></strong>
+                            </td>
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
+                            </td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
+                                3,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
+                                5,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
+                                6,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
+                                7,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
+                                9,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
+                                10,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
+                                12,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
+                                12,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
 
-</div>
+        </div>
     </div>
     </div>
 
@@ -1233,7 +1194,7 @@
                         </div>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </div>
@@ -1290,49 +1251,42 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
                         <div class="footer-logo mb-40">
-                            <a href="https://itrsahayata.in/"><img src="./assets/web/images/logobotttom.png"
-                                    alt=""></a>
+                            <a href="https://itrsahayata.in/"><img src="./assets/web/images/logobotttom.png" alt=""></a>
                         </div>
                         <div class="textwidget white-color pb-40">Streamline Your Taxes with Our Best ITR Filing Services. Contact Us Now and Experience Hassle-Free Tax Compliance!. </div>
-                       
-                        
 
-                       
+
+
+
                         <ul class="footer-social md-mb-30">
 
                             <li>
-                                <a href="https://www.facebook.com/your page" target="_blank"><span><i
-                                            class="fa fa-facebook"></i></span></a>
+                                <a href="https://www.facebook.com/your page" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.instagram.com/itrsahayata?igshid=MzNlNGNkZWQ4Mg==/" target="_blank"><span><i
-                                            class="fa fa-instagram"></i></span></a>
+                                <a href="https://www.instagram.com/itrsahayata?igshid=MzNlNGNkZWQ4Mg==/" target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.youtube.com/yourpage"
-                                    target="_blank"><span><i class="fa fa-youtube"></i></span></a>
+                                <a href="https://www.youtube.com/yourpage" target="_blank"><span><i class="fa fa-youtube"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.linkedin.com/in/yourpage/" target="_blank"><span><i
-                                            class="fa fa-linkedin"></i></span></a>
+                                <a href="https://www.linkedin.com/in/yourpage/" target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://twitter.com/yourpage" target="_blank"><span><i
-                                            class="fa fa-twitter"></i></span></a>
+                                <a href="https://twitter.com/yourpage" target="_blank"><span><i class="fa fa-twitter"></i></span></a>
                             </li>
 
                             <li>
-                                <a href="https://www.pinterest.com/yourpage/" target="_blank"><span><i
-                                            class="fa fa-pinterest-p"></i></span></a>
+                                <a href="https://www.pinterest.com/yourpage/" target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
                             </li>
 
                         </ul>
-                     
-                        
+
+
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
                         <h3 class="footer-title">Our Services</h3>
@@ -1340,7 +1294,7 @@
                             <li><a href="#itr1-section">ITR-1 Filing</a></li>
                             <li><a href="#itr2-section">ITR-2 Filing</a></li>
                             <li><a href="#itr3-section">ITR-3 Filing</a></li>
-                           
+
                         </ul>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
@@ -1367,15 +1321,15 @@
                 </div>
             </div>
         </div>
-        
+
 
         <div class="footer-bottom">
             <div class="container">
                 <div class="row y-middle">
-                
+
                     <div class="col-lg-4">
                         <div class="copyright text-lg-start text-center ">
-           
+
                             <p>Copyright ©2023 Itrsahayata all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/"> Nation Connect</a> </p>
                         </div>
                     </div>
@@ -1383,10 +1337,10 @@
             </div>
         </div>
 
-        
-        
-        
-        
+
+
+
+
 
 
 
@@ -1452,6 +1406,27 @@
     <!-- main js -->
     <script src="./assets/web/js/main.js"></script>
 
+    <script>
+        $("#booking-form").submit(function(event) {
+            event.preventDefault();
+            $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+            $(".submit-btn").prop('disabled', true);
+            $('#form-message-success').hide();
+            $('#form-message-danger').hide();
+            var formValues = $(this).serialize();
+            $.post("mail.php", formValues, function(data) {
+                $(".submit-btn").html("Submit");
+                $(".submit-btn").prop('disabled', false);
+                if (data) {
+                    $('#form-message-success').show().delay(5000).fadeOut(500);
+                    $("#booking-form")[0].reset();
+                    closePopup();
+                } else {
+                    $('#form-message-danger').show().delay(5000).fadeOut(500);
+                }
+            });
+        });
+    </script>
 </body>
 
 
