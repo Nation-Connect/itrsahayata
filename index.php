@@ -40,7 +40,7 @@
     <!-- responsive css -->
     <link rel="stylesheet" type="text/css" href="./assets/web/css/responsive.css">
 
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 
@@ -116,11 +116,11 @@
 
                                                     </ul>
                                                     <ul class="sub-menu">
-                                                        <li><a href="tel:8130813280"><i class="fas fa-phone"></i> Call</a></li>
-                                                        <li><a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
-                                                        <li><a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a></li>
-                                                        <li><a href="https://www.facebook.com/yourpage"><i class="fab fa-facebook"></i> Facebook</a></li>
-                                                        <li><a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i> Instagram</a></li>
+                                                        <li><a href="tel:8130813280"><i class="fa fa-phone"></i> Call</a></li>
+                                                        <li><a href="https://wa.me/8130813280"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
+                                                        <li><a href="mailto:info@itrsahayata.in"><i class="fa fa-envelope"></i> Email</a></li>
+                                                        <li><a href="https://www.facebook.com/yourpage"><i class="fa fa-facebook"></i> Facebook</a></li>
+                                                        <li><a href="https://www.instagram.com/yourpage"><i class="fa fa-instagram"></i> Instagram</a></li>
                                                     </ul>
                                                 </li>
 
@@ -302,11 +302,11 @@
                     <div class="dropdown">
                         <button class="dropbtn">Contact Us</button>
                         <div class="dropdown-content">
-                            <a href="tel:8130813280"><i class="fas fa-phone"></i> Call</a>
-                            <a href="https://wa.me/8130813280"><i class="fab fa-whatsapp"></i> WhatsApp</a>
-                            <a href="https://www.instagram.com/yourpage"><i class="fab fa-instagram"></i>
+                            <a href="tel:8130813280"><i class="fa fa-phone"></i> Call</a>
+                            <a href="https://wa.me/8130813280"><i class="fa fa-whatsapp"></i> WhatsApp</a>
+                            <a href="https://www.instagram.com/yourpage"><i class="fa fa-instagram"></i>
                                 Instagram</a>
-                            <a href="mailto:info@itrsahayata.in"><i class="fas fa-envelope"></i> Email</a>
+                            <a href="mailto:info@itrsahayata.in"><i class="fa fa-envelope"></i> Email</a>
                         </div>
                     </div>
 
