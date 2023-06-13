@@ -900,8 +900,8 @@
         font-size: 41px;
     }
     .rs-slider.slider3 .nivoSlider img {
-        /* height: 615px !important;
-        width: auto !important; */
+        height: auto !important;
+        width: 100% !important;
     }
     .rs-about.style3 .accordion .card .card-header .card-link {
         padding-left: 36px !important;
