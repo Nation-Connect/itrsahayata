@@ -55,8 +55,8 @@
         right: 3%;
     }
     .rs-slider.slider3 .nivoSlider img{
-        height: 715px;
-        width: auto !important;
+        height: 360px;
+        /* width: auto !important; */
     }
     .rs-why-choose.style1 .choose-img img{
         width: 100%;
