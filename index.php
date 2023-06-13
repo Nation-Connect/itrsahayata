@@ -115,6 +115,20 @@
                                                         <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
 
                                                     </ul>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#tax-slave">Tax Rates</a>
+                                                    <ul class="sub-menu">
+                                                        <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
+
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#itr3-section">Contact Us</a>
+                                                    <ul class="sub-menu">
+                                                        <!-- <li><a href="itr-filing.html"> ITR Filing</a></li> -->
+
+                                                    </ul>
                                                     <ul class="sub-menu">
                                                         <li><a href="tel:8130813280"><i class="fa fa-phone"></i> Call</a></li>
                                                         <li><a href="https://wa.me/8130813280"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
@@ -400,7 +414,7 @@
                 <!-- Slide 1 -->
                 <div id="slide-1" class="slider-direction">
                     <div class="content-part">
-                        <div class="container">
+                        <div class="container text-center">
                             <div class="slider-des">
                                 <!-- <div class="sl-subtitle">Itr-filling Consulting</div> -->
                                 <!-- <h1 class="sl-title">Effortless ITR Filing: <br> Beat Deadlines with Ease!</h1> -->

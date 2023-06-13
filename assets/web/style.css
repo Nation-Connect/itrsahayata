@@ -3222,7 +3222,7 @@ background: url(images/breadcrumbs/inr_7.jpg);
 .rs-slider.slider3 .content-part {
   position: absolute;
   content: '';
-  top: 50%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
