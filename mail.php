@@ -1,12 +1,12 @@
 <?php
-    // use PHPMailer\PHPMailer\PHPMailer;
-    // use PHPMailer\PHPMailer\SMTP;
-    // use PHPMailer\PHPMailer\Exception;
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\SMTP;
+    use PHPMailer\PHPMailer\Exception;
     
-    require 'PHPMailer/PHPMailer/src/Exception.php';
-    require 'PHPMailer/PHPMailer/src/PHPMailer.php';
-    require 'PHPMailer/PHPMailer/src/SMTP.php';    
-    require 'PHPMailer/PHPMailer/vendor/autoload.php';
+    // require 'PHPMailer/PHPMailer/src/Exception.php';
+    // require 'PHPMailer/PHPMailer/src/PHPMailer.php';
+    // require 'PHPMailer/PHPMailer/src/SMTP.php';    
+    // require 'PHPMailer/PHPMailer/vendor/autoload.php';
     $mail = new PHPMailer;
 
     if(isset($_POST['send-booking-mail']))
