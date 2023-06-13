@@ -27,7 +27,7 @@
         $mail->Username   = 'no-reply@itrsahayata.in';                     // SMTP username
         $mail->Password   = '*i@XQ(8f{MWF';                               // SMTP password
         $mail->SMTPSecure = 'tls';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
-        $mail->Port       = 587;                                    // TCP port to connect to
+        $mail->Port       = 587;                                    // TCP port to connect to//
     
         //Recipients
         $mail->setFrom('no-reply@itrsahayata.in', 'ITR Sahayata');
