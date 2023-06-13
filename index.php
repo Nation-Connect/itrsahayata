@@ -402,7 +402,7 @@
                     <div class="content-part">
                         <div class="container">
                             <div class="slider-des">
-                                <div class="sl-subtitle">Itr-filling Consulting</div>
+                                <!-- <div class="sl-subtitle">Itr-filling Consulting</div> -->
                                 <!-- <h1 class="sl-title">Effortless ITR Filing: <br> Beat Deadlines with Ease!</h1> -->
                             </div>
                             <div class="slider-bottom">
