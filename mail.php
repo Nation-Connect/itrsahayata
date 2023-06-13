@@ -22,12 +22,12 @@
         //Server settings
         $mail->SMTPDebug = 1;                      // Enable verbose debug output
         $mail->isSMTP();                                            // Send using SMTP
-        $mail->Host       = 'mail.itrsahayata.in';                    // Set the SMTP server to send through
+        $mail->Host       = 'mail.sunriseindiasolar.com';                    // Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-        $mail->Username   = 'no-reply@itrsahayata.in';                     // SMTP username
-        $mail->Password   = '*i@XQ(8f{MWF';                               // SMTP password
+        $mail->Username   = 'enquiry@sunriseindiasolar.com';                     // SMTP username
+        $mail->Password   = 'Ox_kYpG6P}=C';                               // SMTP password
         $mail->SMTPSecure = 'tls';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
-        $mail->Port       = 587;                                    // TCP port to connect to//
+        $mail->Port       = 587;                                      // TCP port to connect to//
     
         //Recipients
         $mail->setFrom('no-reply@itrsahayata.in', 'ITR Sahayata');
