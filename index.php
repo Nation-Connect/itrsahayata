@@ -406,6 +406,9 @@
 
         <!-- Slider Start -->
         <!-- Slider Start -->
+        <div class="row" style="margin-bottom: -30px;padding-right: 85px;">
+            <p class="text-right" style="margin-right: 50px; font-size: 16px; font-weight: 600;">8130813280</p>
+        </div>
         <div id="rs-slider" class="rs-slider slider3 rs-slider-style3 mt-10">
             <div class="bend niceties">
                 <div id="nivoSlider" class="slides">
@@ -435,7 +438,7 @@
             <div class="popup-form">
                 <h2>Book Your Appointment</h2>
                 <form action="#" id="booking-form">
-                <input type="hidden" name="send-booking-mail" />
+                    <input type="hidden" name="send-booking-mail" />
                     <div class="form-group">
                         <input type="text" id="name" name="name" placeholder="Name" required>
                     </div>
