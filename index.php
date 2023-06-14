@@ -406,8 +406,8 @@
 
         <!-- Slider Start -->
         <!-- Slider Start -->
-        <div class="row" style="margin-bottom: -30px;padding-right: 85px;">
-            <p class="text-right" style="margin-right: 50px; font-size: 16px; font-weight: 600;">8130813280</p>
+        <div class="row" style="margin-bottom: -30px; background-color: #043956;color: #ffffff; padding-right: 85px;">
+        <p class="text-right" style="margin-right: 50px; font-size: 16px; font-weight: 600; margin-top: 8px;"><i class="fa fa-phone"></i> +918130813280</p>
         </div>
         <div id="rs-slider" class="rs-slider slider3 rs-slider-style3 mt-10">
             <div class="bend niceties">
