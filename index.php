@@ -680,7 +680,7 @@
                                 <div class="pricing-table-bags">
 
                                     <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                        399.00*</span>
+                                        599.00*</span>
                                 </div>
                             </div>
                             <div class="pricing-table-body">
