@@ -1347,7 +1347,7 @@
                     <div class="col-lg-4">
                         <div class="copyright text-lg-start text-center ">
 
-                            <p>Copyright ©2023 Itrsahayata all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/"> Nation Connect</a> </p>
+                            <p>Copyright ©<?php echo date("Y"); ?> Itrsahayata all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/"> Nation Connect</a> </p>
                         </div>
                     </div>
                 </div>
